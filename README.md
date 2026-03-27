@@ -1,6 +1,5 @@
 # 👩‍💻 Hola, soy Maria Nieto
 
-## ✨ Sobre mí
 
 Analista de datos e ingeniera de software, apasionada por convertir datos en decisiones estratégicas.  
 
@@ -19,12 +18,15 @@ Trabajo con grandes volúmenes de datos y herramientas como SQL, Python y Power 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
 <img src="https://cdn.simpleicons.org/databricks" width="40"/>
+<img src="https://img.icons8.com/fluency/48/microsoft-sharepoint-2019.png" width="40"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
 
 </p>
 
 <p align="center">
-<b>SQL • Python • MySQL • Power BI • Excel • SharePoint • Automatización</b>
+<b>SQL • Python • MySQL • Power BI • Excel • SharePoint • Automatización • Databricks</b>
 </p>
 
 ---
