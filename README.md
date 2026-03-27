@@ -33,7 +33,7 @@ Trabajo con grandes volúmenes de datos y herramientas como SQL, Python y Power 
 
 ## 🎓 Certificados
 
-- 📜 Fundamentos en Ánalisis de Datos
+- 📜 Fundamentos en Análisis de Datos
 - 📜 Programación
 - 📜 Auxiliar en sistemas 
 
