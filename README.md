@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**MAJON24/MAJON24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 👩‍💻 Perfil Profesional
 
 Analista de datos e ingeniera de software, apasionada por convertir datos maestros en decisiones estratégicas.  
